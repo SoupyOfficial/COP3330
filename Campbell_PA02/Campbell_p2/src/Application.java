@@ -17,7 +17,7 @@ public class Application {
 					System.out.println("Integer " + (i + 1) + ":");
 					userValue[i] = myObj.nextInt();	
 				}				
-				Encrypter.Encryption(userValue);
+				Encrypter.Encrypt(userValue);
 				break;
 							
 			case 2:
@@ -26,7 +26,7 @@ public class Application {
 					System.out.println("Integer " + (i + 1) + ":");
 					userValue[i] = myObj.nextInt();	
 				}
-				Decrypter.Decryption(userValue);
+				Decrypter.Decrypt(userValue);
 				break;
 			
 		

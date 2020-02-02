@@ -1,7 +1,7 @@
 
 public class Decrypter {
 	
-	public static void Decryption(int userValue[]) { 
+	public static void Decrypt(int userValue[]) { 
 		int i;
 		for(i = 0; i < 4; i++) {
 			if(userValue[i] == 7 || userValue[i] == 8 || userValue[i] == 9) {

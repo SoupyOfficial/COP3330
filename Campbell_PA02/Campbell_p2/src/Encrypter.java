@@ -1,7 +1,7 @@
 
 public class Encrypter {
 	
-	public static void Encryption(int userValue[]) { 
+	public static void Encrypt(int userValue[]) { 
 		int i;
 		for(i = 0; i < 4; i++) {
 		userValue[i] = (userValue[i] + 7) % 10;		
