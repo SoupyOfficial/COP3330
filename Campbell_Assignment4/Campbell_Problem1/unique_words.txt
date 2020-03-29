@@ -1,0 +1,7 @@
+word
+test
+food
+guess
+day
+school
+sleep

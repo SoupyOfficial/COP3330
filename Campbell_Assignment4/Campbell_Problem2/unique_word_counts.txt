@@ -1,0 +1,4 @@
+test=2
+word=2
+day=2
+food=3
